@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isis55.yasmim@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/saffis)
 
-Tenho 23 anos e sou estudante de **Ciência da Computação** na UTFPR. Atualmente estou aprendendo C# e Flutter, e tenho um interesse especial na área de UI/UX! 
+Tenho 23 anos e sou estudante de **Ciência da Computação** na UTFPR. Atualmente estou estudando para a prova da AWS!
 
 <p align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
