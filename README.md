@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isis55.yasmim@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/saffis)
 
-Tenho 23 anos e sou estudante de **Ciência da Computação** na UTFPR. Tenho foco de conhecimento e estudo na área de engenharia de dados, porém também mexo com um pouco com UI/UX design.
+Tenho 25 anos e sou estudante de **Ciência da Computação** na UTFPR. Tenho foco de conhecimento e estudo na área de engenharia de dados, porém também mexo com um pouco com UI/UX design.
 
 Cheque minha [certificação de Cloud Practitioner da AWS!](https://www.credly.com/badges/59ca217e-0f36-4926-b776-5b8b29334a40/linked_in?t=s2q8qo) 🎉
 
@@ -26,7 +26,7 @@ Espero que você tenha um ótimo dia 😊
 <summary>English Version</summary>
   
 ### Hey! My name is Ísis 👋
-I'm 23yo, and I'm a **computer science** student at UTFPR. My main focus of study is the field of Data Engineering, but I sometimes dabble with UI/UX design.
+I'm 25yo, and I'm a **computer science** student at UTFPR. My main focus of study is the field of Data Engineering, but I sometimes dabble with UI/UX design.
 
 Check out my [AWS Cloud Practitioner Certification!](https://www.credly.com/badges/59ca217e-0f36-4926-b776-5b8b29334a40/linked_in?t=s2q8qo) 🎉
   
